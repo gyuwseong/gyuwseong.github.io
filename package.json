@@ -77,12 +77,10 @@
     "check:lint": "eslint . --ext .js,.jsx",
     "fix:lint": "eslint . --fix --ext .js,.jsx",
     "check:prettier": "prettier -c .",
-    "fix:prettier": "prettier -c --write ."
+    "fix:prettier": "prettier -c --write .",
+    "deploy": "gatsby build && gh-pages -d public -b deploy"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/devHudi/gatsby-starter-hoodie"
-  },
+  "repository": "https://github.com/devHudi/gatsby-starter-hoodie",
   "bugs": {
     "url": "https://github.com/devHudi/gatsby-starter-hoodie"
   }

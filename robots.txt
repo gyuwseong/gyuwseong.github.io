@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://gyuwseong.github.io/sitemap-index.xml
+Host: https://gyuwseong.github.io

@@ -1,5 +1,5 @@
 ---
-title: "TypeORM 적응기 (feat.custom repository)"
+title: "Custom repository 적용하기 (feat. Sequelize, TypeORM)"
 description:
 date: 2024-06-04
 update: 2024-06-04
